@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security :D
 - 🌱 I’m currently learning C++, HTML, Javascript...
 - 💞️ I’m looking to collaborate on uhhhhhhh idk
-- 📫 How to reach me: corey.froud@icloud.com :)
+- 📫 How to reach me: yes
 
 <!---
 cxrxy/cxrxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
