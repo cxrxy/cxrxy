@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cxrxy
-- 👀 I’m interested in Cyber Security :D
-- 🌱 I’m currently learning C++, HTML, Javascript...
-- 💞️ I’m looking to collaborate on uhhhhhhh idk
-- 📫 How to reach me: yes
+- 👀 I’m interested in Cyber Security :)
+- 🌱 I’m currently learning Python, C++, HTML, Javascript...
 
 <!---
 cxrxy/cxrxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
